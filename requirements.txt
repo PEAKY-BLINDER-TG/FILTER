@@ -2,6 +2,7 @@ future
 beautifulsoup4
 requests
 sqlalchemy
+telethon
 tswift
 coffeehouse
 python-telegram-bot==11.1.0
